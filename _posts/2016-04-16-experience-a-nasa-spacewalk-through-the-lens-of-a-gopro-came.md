@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-08T19:55:46.033Z'
+datePublished: '2016-06-08T20:02:25.003Z'
 sourcePath: >-
   _posts/2016-04-16-experience-a-nasa-spacewalk-through-the-lens-of-a-gopro-came.md
 inFeed: true
@@ -29,7 +29,7 @@ related:
       http://static-cdn1.ustream.tv/i/channel/picture/6/5/4/0/6540154/6540154_nasatv_public_hr_1330361732,640x360,b:1.jpg
     thumbnail_width: 360
 author: []
-dateModified: '2016-06-08T19:55:45.370Z'
+dateModified: '2016-06-08T20:02:24.588Z'
 title: Experience a NASA Spacewalk Through the Lens of a GoPro Camera
 app_links: []
 publisher:
@@ -44,7 +44,7 @@ description: >-
   perspective.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
